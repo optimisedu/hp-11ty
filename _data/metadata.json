@@ -1,9 +1,9 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
+  "title": "Optimise-U | Simple Search Solutions.",
+  "url": "https://optimise-u.co.uk",
+  "domain": "optimise-u.co.uk",
+  "description": "Clean web design to skyrocket your Google Rank.",
+  "genre": "Marketing",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
   "feed": {
@@ -17,10 +17,10 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Ⓒ David Arnold - https://www.optimise-u.co.uk..",
+    "twitterHandle": "Optimizu"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Davvid Arnold"
   }
 }
